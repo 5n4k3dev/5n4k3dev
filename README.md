@@ -1,6 +1,8 @@
-## ☆★☆
-- USC Games '29 undergrad
-- any pronouns
+## ♪
+USC game design '29
+any pronouns
+
+## Create
 
 <!--
 **d1carne/d1carne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
