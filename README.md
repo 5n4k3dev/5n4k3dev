@@ -1,8 +1,5 @@
-usc game design '29<br>
-any pronouns
-
-## Create.   ♪
-
+Hello my game is ray and i like video names <br>
+not really know how to code
 <!--
 **d1carne/d1carne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
