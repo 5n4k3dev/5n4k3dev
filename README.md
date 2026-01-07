@@ -1,5 +1,5 @@
 Hello my game is ray and i like video names <br>
-not really know how to code
+刚接触电子产品
 <!--
 **d1carne/d1carne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
